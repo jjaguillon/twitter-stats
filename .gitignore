@@ -1,2 +1,5 @@
 .DS_Store
 *.json
+.ipynb_checkpoints
+pyproject.toml
+poetry.lock
